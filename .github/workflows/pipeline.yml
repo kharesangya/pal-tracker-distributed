@@ -181,10 +181,3 @@ jobs:
           CF_SPACE: ${{ secrets.CF_SPACE }}
           CF_USERNAME: ${{ secrets.CF_USERNAME }}
           CF_PASSWORD: ${{ secrets.CF_PASSWORD }}
-
-
-api endpoint:   https://api.sys.evans.pal.pivotal.io
-api version:    2.145.0
-user:           skhare5@ford.com
-org:            skhare5.ford.com
-space:          sandbox
