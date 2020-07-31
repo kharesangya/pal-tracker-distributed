@@ -40,8 +40,6 @@ subprojects {
         jcenter()
     }
 
-
-
     dependencies {
         compile "com.fasterxml.jackson.core:jackson-core:$jacksonVersion"
         compile "com.fasterxml.jackson.core:jackson-databind:$jacksonVersion"
